@@ -44,6 +44,10 @@ To run this project, you will need to add the following environment variables to
 
 ![CryptoBucks Shop Page](https://i.imgur.com/s4xozVg.png)
 
+**CryptoBucks Shop Page/Purchasing CryptoBucks**
+
+![CryptoBucks Shop Page/Purchasing CryptoBucks](https://i.imgur.com/VeaVBHk.png)
+
 **Profile Page/Tracked Cryptos**
 
 ![Profile Page/Tracked Cryptos](https://i.imgur.com/PjAJWjN.png)
