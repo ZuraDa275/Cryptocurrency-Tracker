@@ -32,6 +32,10 @@ To run this project, you will need to add the following environment variables to
 
 ![Home Page](https://i.imgur.com/cMLYoUG.png)
 
+**Home Page/ Pagination**
+
+![Home Page/ Pagination](https://i.imgur.com/gzKVwSZ.png)
+
 **Login & Register**
 
 ![Login & Register](https://i.imgur.com/ecMrfgm.png)
